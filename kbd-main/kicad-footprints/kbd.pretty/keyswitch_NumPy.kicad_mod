@@ -1,0 +1,148 @@
+(footprint "keyswitch_NumPy"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 8.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0a9e7192-6667-4289-8263-f2652c7b8e01")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "keyswitch_NumPy"
+		(at 0 -7.8 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7784b1de-84b6-45a0-807d-51a82d97720c")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce2a5725-0fa1-4a03-8488-50ec854efb07")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee30457e-12ff-4c1b-9a2b-816a384f537a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -7.5 -7.5)
+		(end 7.5 -7.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d49cee5e-e84b-4824-96cd-5a530de5c722")
+	)
+	(fp_line
+		(start -7.5 7)
+		(end -7.5 -7.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d074c6df-5c67-4385-b53c-52b8110a2062")
+	)
+	(fp_line
+		(start 7.5 -7.5)
+		(end 7.5 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b47bc30b-12c3-40e7-9d23-ee903c5ca4bb")
+	)
+	(fp_line
+		(start 7.5 7)
+		(end -7.5 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "468dfc13-75c0-46ed-843f-fd72e9af5a7c")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0 270)
+		(size 5 5)
+		(drill 5)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "fc5a3f0a-46c3-488a-a492-ec02434d8be4")
+	)
+	(pad "1" thru_hole circle
+		(at -4.5 -5)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e76a0cd8-241e-4cf2-a860-bd5383d5fe16")
+	)
+	(pad "1" thru_hole circle
+		(at 4.5 -5)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ef122314-9c88-45a9-9b3f-77ad2be07d56")
+	)
+	(pad "2" thru_hole circle
+		(at -2.5 -6)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "874f3d71-dc9c-4294-a2b1-534009a39ab7")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 -6)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3a3fc5f9-72cc-4272-b730-44af4168da63")
+	)
+	(embedded_fonts no)
+	(model ":KICAD_KBD_DIR:kicad-packages3D/kbd.3dshapes/kailh_choc_socket.step"
+		(offset
+			(xyz 0 0 1.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 180 0)
+		)
+	)
+)
