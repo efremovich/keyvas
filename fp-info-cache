@@ -1,4 +1,4 @@
-490487793233121
+493989109049459
 E73-2G4M08S1C
 E73-2G4M08S1C
 
@@ -866,6 +866,13 @@ keyswitch_cherrymx_alps_choc12_1u
 
 0
 6
+2
+kbd
+keyswitch_gateron_low_profile_1u
+
+
+0
+2
 2
 kbd
 keyswitch_hole
@@ -1993,6 +2000,13 @@ keyswitch_cherrymx_alps_choc12_1u
 
 0
 6
+2
+kicad-footprints
+keyswitch_gateron_low_profile_1u
+
+
+0
+2
 2
 kicad-footprints
 keyswitch_hole
