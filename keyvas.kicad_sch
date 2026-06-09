@@ -10219,7 +10219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 158.75 152.4 0)
 			(effects
 				(font
@@ -10285,7 +10285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 55.88 106.68 0)
 			(effects
 				(font
@@ -10623,7 +10623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 44.45 106.68 0)
 			(effects
 				(font
@@ -10893,7 +10893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 135.89 121.92 0)
 			(effects
 				(font
@@ -10959,7 +10959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 158.75 106.68 0)
 			(effects
 				(font
@@ -11155,7 +11155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 158.75 121.92 0)
 			(effects
 				(font
@@ -11289,7 +11289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 101.6 121.92 0)
 			(effects
 				(font
@@ -11355,7 +11355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 55.88 121.92 0)
 			(effects
 				(font
@@ -12045,7 +12045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 90.17 121.92 0)
 			(effects
 				(font
@@ -12736,7 +12736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 44.45 121.92 0)
 			(effects
 				(font
@@ -12867,7 +12867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 55.88 137.16 0)
 			(effects
 				(font
@@ -12933,7 +12933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 67.31 137.16 0)
 			(effects
 				(font
@@ -12999,7 +12999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 33.02 121.92 0)
 			(effects
 				(font
@@ -13460,7 +13460,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 158.75 137.16 0)
 			(effects
 				(font
@@ -13662,7 +13662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 101.6 137.16 0)
 			(effects
 				(font
@@ -14254,7 +14254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 124.46 152.4 0)
 			(effects
 				(font
@@ -14320,7 +14320,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 44.45 152.4 0)
 			(effects
 				(font
@@ -14587,7 +14587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 101.6 106.68 0)
 			(effects
 				(font
@@ -14920,7 +14920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 113.03 121.92 0)
 			(effects
 				(font
@@ -15181,7 +15181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 67.31 106.68 0)
 			(effects
 				(font
@@ -15583,7 +15583,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 101.6 152.4 0)
 			(effects
 				(font
@@ -15717,7 +15717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 90.17 152.4 0)
 			(effects
 				(font
@@ -15783,7 +15783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 78.74 121.92 0)
 			(effects
 				(font
@@ -16191,7 +16191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 135.89 152.4 0)
 			(effects
 				(font
@@ -16321,7 +16321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 67.31 121.92 0)
 			(effects
 				(font
@@ -16387,7 +16387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 135.89 137.16 0)
 			(effects
 				(font
@@ -16453,7 +16453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 135.89 106.68 0)
 			(effects
 				(font
@@ -16651,7 +16651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 33.02 137.16 0)
 			(effects
 				(font
@@ -16717,7 +16717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 67.31 152.4 0)
 			(effects
 				(font
@@ -16851,7 +16851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 78.74 137.16 0)
 			(effects
 				(font
@@ -17053,7 +17053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 78.74 152.4 0)
 			(effects
 				(font
@@ -17119,7 +17119,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 78.74 106.68 0)
 			(effects
 				(font
@@ -17250,7 +17250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 147.32 137.16 0)
 			(effects
 				(font
@@ -17316,7 +17316,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 147.32 121.92 0)
 			(effects
 				(font
@@ -17739,7 +17739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 90.17 106.68 0)
 			(effects
 				(font
@@ -17881,7 +17881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 113.03 137.16 0)
 			(effects
 				(font
@@ -18550,7 +18550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 33.02 106.68 0)
 			(effects
 				(font
@@ -18684,7 +18684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 113.03 152.4 0)
 			(effects
 				(font
@@ -18948,7 +18948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 124.46 121.92 0)
 			(effects
 				(font
@@ -19081,7 +19081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 124.46 137.16 0)
 			(effects
 				(font
@@ -19147,7 +19147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 33.02 152.4 0)
 			(effects
 				(font
@@ -19349,7 +19349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 147.32 152.4 0)
 			(effects
 				(font
@@ -19627,7 +19627,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 55.88 152.4 0)
 			(effects
 				(font
@@ -20029,7 +20029,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 44.45 137.16 0)
 			(effects
 				(font
@@ -20095,7 +20095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 147.32 106.68 0)
 			(effects
 				(font
@@ -20161,7 +20161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 124.46 106.68 0)
 			(effects
 				(font
@@ -20227,7 +20227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 113.03 106.68 0)
 			(effects
 				(font
@@ -20426,7 +20426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_NumPy_gateon_cherry"
+		(property "Footprint" "kbd:SW_Gateron_LowProfile_THT"
 			(at 90.17 137.16 0)
 			(effects
 				(font
