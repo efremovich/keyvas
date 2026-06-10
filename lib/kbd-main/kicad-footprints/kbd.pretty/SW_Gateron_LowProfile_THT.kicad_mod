@@ -137,15 +137,15 @@
 		(uuid "ca2adff9-c562-4c55-9bb3-8804385d8e97")
 	)
 	(fp_rect
-		(start -9.5 -9.5)
-		(end 9.5 9.5)
+		(start -9 -9)
+		(end 9 9)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "878128a0-5da0-4fe8-b3ff-0aedf30ea916")
+		(uuid "83402a93-7133-4cc5-95b0-69ff4587fa26")
 	)
 	(fp_rect
 		(start -8.25 8.25)

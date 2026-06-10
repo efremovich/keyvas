@@ -3646,6 +3646,142 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "KEYSW_1"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "K"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "KEYSW"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Keyboard_Components:MX_1.00u"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Single Pole Single Throw (SPST) switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch lever"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "KEYSW_1_0_0"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 0.254) (xy 1.524 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "KEYSW_1_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Keyboard_Components:KEYSW"
 			(pin_names
 				(offset 0)
@@ -3851,6 +3987,172 @@
 				)
 			)
 			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_1_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_2"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_2_0_1"
 				(circle
 					(center 0 0)
 					(radius 1.27)
@@ -12278,7 +12580,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "E73-2G4M08S1C:E73-2G4M08S1C"
+		(property "Footprint" "E73-2G4M08S1C-master:E73-2G4M08S1C-52840"
 			(at 46.99 60.706 0)
 			(effects
 				(font
@@ -12544,7 +12846,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kbd:M2-MountingHole-Standoff"
+		(property "Footprint" "kbd:Hole 3,2"
 			(at 201.93 97.79 0)
 			(effects
 				(font
@@ -13135,7 +13437,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kbd:M2-MountingHole-Standoff"
+		(property "Footprint" "kbd:Hole 3,2"
 			(at 201.93 87.63 0)
 			(effects
 				(font
@@ -13436,6 +13738,70 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_1")
+		(lib_id "Mechanical:MountingHole")
+		(at 201.93 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4aff8289-5b28-42f1-8706-b6c0c5cb3a18")
+		(property "Reference" "H2"
+			(at 205.74 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 205.74 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "kbd:Hole 3,2"
+			(at 201.93 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 201.93 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 201.93 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3b17620c-a565-4e9f-bd7f-b6a9b37841e9"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Keyboard_Components:KEYSW")
 		(at 158.75 142.24 0)
 		(unit 1)
@@ -13602,7 +13968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kbd:M2-MountingHole-Standoff"
+		(property "Footprint" "kbd:Hole 3,2"
 			(at 201.93 82.55 0)
 			(effects
 				(font
@@ -13638,6 +14004,7 @@
 		)
 	)
 	(symbol
+		(lib_name "KEYSW_1")
 		(lib_id "Keyboard_Components:KEYSW")
 		(at 101.6 142.24 0)
 		(unit 1)
@@ -13728,7 +14095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:USB-C_C168688_REV"
+		(property "Footprint" "kbd:TYPE-C-31-M-13C"
 			(at 171.6278 17.145 0)
 			(effects
 				(font
@@ -14962,6 +15329,70 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_2")
+		(lib_id "Mechanical:MountingHole")
+		(at 201.93 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "69dc5cb8-5c10-46a5-be81-dfbc93d90afe")
+		(property "Reference" "H7"
+			(at 205.74 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 205.74 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "kbd:Hole 3,2"
+			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3b17620c-a565-4e9f-bd7f-b6a9b37841e9"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 201.93 102.87 0)
 		(unit 1)
@@ -14988,7 +15419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kbd:M2-MountingHole-Standoff"
+		(property "Footprint" "kbd:Hole 3,2"
 			(at 201.93 102.87 0)
 			(effects
 				(font
@@ -18820,7 +19251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kbd:M2-MountingHole-Standoff"
+		(property "Footprint" "kbd:Hole 3,2"
 			(at 201.93 92.71 0)
 			(effects
 				(font
@@ -18918,6 +19349,70 @@
 			(project "keyvas"
 				(path "/3b17620c-a565-4e9f-bd7f-b6a9b37841e9"
 					(reference "D42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MountingHole_2")
+		(lib_id "Mechanical:MountingHole")
+		(at 201.93 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c6b93a8d-f653-4606-a5d4-577332a1396e")
+		(property "Reference" "H8"
+			(at 205.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 205.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "kbd:Hole 3,2"
+			(at 201.93 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 201.93 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 201.93 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "keyvas"
+				(path "/3b17620c-a565-4e9f-bd7f-b6a9b37841e9"
+					(reference "H8")
 					(unit 1)
 				)
 			)
