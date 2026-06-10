@@ -137,6 +137,17 @@
 		(uuid "ca2adff9-c562-4c55-9bb3-8804385d8e97")
 	)
 	(fp_rect
+		(start -9.5 -9.5)
+		(end 9.5 9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "878128a0-5da0-4fe8-b3ff-0aedf30ea916")
+	)
+	(fp_rect
 		(start -8.25 8.25)
 		(end 8.25 -8.25)
 		(stroke
@@ -158,30 +169,6 @@
 		(layer "F.Fab")
 		(uuid "0d0df2ac-f3f7-482e-ba7c-5f666b048a62")
 	)
-	(fp_rect
-		(start -3.2 -6.3)
-		(end 1.8 -4.05)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "F.Fab")
-		(uuid "ec4bb993-3337-4efd-b35d-3166968a3630")
-	)
-	(fp_poly
-		(pts
-			(xy -2.07 0.615) (xy -0.62 0.615) (xy -0.62 1.99) (xy 0.48 1.99) (xy 0.48 0.615) (xy 1.93 0.615)
-			(xy 1.93 -0.635) (xy 0.48 -0.635) (xy 0.48 -2.01) (xy -0.62 -2.01) (xy -0.62 -0.635) (xy -2.07 -0.635)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Fab")
-		(uuid "a8a2ccc5-5164-4516-8636-0b7fd21e8c2c")
-	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -8.5 0)
 		(unlocked yes)
@@ -200,20 +187,6 @@
 		(drill 1.7)
 		(layers "*.Mask")
 		(uuid "6ccab589-610e-457f-823a-c8ea0e7d308c")
-	)
-	(pad "" np_thru_hole circle
-		(at -0.05 -0.01 180)
-		(size 4 4)
-		(drill 4)
-		(layers "*.Mask")
-		(uuid "493c7e74-512e-4451-abe0-74b5bc90d516")
-	)
-	(pad "" np_thru_hole circle
-		(at -0.04 0 180)
-		(size 4 4)
-		(drill 4)
-		(layers "*.Mask")
-		(uuid "8e1b3913-8e06-40bc-999b-948fe0b3977e")
 	)
 	(pad "" np_thru_hole circle
 		(at 0 0 180)
