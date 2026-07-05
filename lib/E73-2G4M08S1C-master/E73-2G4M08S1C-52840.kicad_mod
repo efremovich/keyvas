@@ -522,4 +522,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/E73-2G4M08S1C-master/E73-2G4M08S1C.wrl"
+		(offset
+			(xyz -9 -6.5 0)
+		)
+		(scale
+			(xyz 0.4 0.4 0.4)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

@@ -267,4 +267,15 @@
 		(uuid "125a85dd-5ce2-49e9-b38c-ac58d418d60d")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/kbd/kicad-packages3D/kbd.3dshapes/kailh_choc.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
 )
